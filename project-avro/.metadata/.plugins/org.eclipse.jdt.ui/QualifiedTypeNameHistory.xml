@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.apache.zookeeper.common.IOUtils"/>
+<fullyQualifiedTypeName name="io.confluent.kafka.schemaregistry.client.rest.entities.Schema"/>
+<fullyQualifiedTypeName name="org.apache.avro.Schema"/>
+<fullyQualifiedTypeName name="io.confluent.kafka.schemaregistry.client.CachedSchemaRegistryClient"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="org.apache.commons.compress.utils.IOUtils"/>
+</qualifiedTypeNameHistroy>

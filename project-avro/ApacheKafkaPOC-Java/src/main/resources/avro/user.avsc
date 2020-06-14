@@ -1,0 +1,13 @@
+{"namespace": "com.example",
+ "type": "record",
+ "name": "User",
+ "fields": [
+     {"name": "StartTime",  "type":"string"},
+     {"name": "EndDate", "type":"string"},
+     {"name": "EndTime", "type":"string"},
+     {"name": "EventTitle", "type": "string"},
+     {"name": "AllDayEvent",  "type":"string"},
+     {"name": "NoEndTime", "type":"string"},
+     {"name": "EventDescription", "type":"string"}
+ ]
+}

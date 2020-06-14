@@ -1,0 +1,24 @@
+EmployeeID,Start Date ,Start Time,End Date,End Time,Event Title ,All Day Event,No End Time,Event Description
+2,9/5/2011,3:00:00 PM,9/5/2011,7:00:00 PM,Social Studies Dept. Meeting,N,Y,Department meeting
+3,9/5/2012,4:00:00 PM,9/5/2012,8:00:00 PM,Social Studies Dept. Meeting,N,N,Curriculum Meeting
+4,9/5/2013,5:00:00 PM,9/5/2013,9:00:00 PM,Social Studies Dept. Meeting,Y,Y,Department meeting
+5,9/5/2014,6:00:00 PM,9/5/2014,10:00:00 PM,Social Studies Dept. Meeting,N,N,Curriculum Meeting
+6,9/5/2015,7:00:00 PM,9/5/2015,11:00:00 PM,Social Studies Dept. Meeting,N,Y,Department meeting
+7,9/5/2016,8:00:00 PM,9/5/2016,12:00:00 PM,Social Studies Dept. Meeting,Y,N,Curriculum Meeting
+8,9/5/2017,9:00:00 PM,9/5/2017,13:00:00 PM,Social Studies Dept. Meeting,N,Y,Department meeting
+9,9/5/2018,10:00:00 PM,9/5/2018,14:00:00 PM,Social Studies Dept. Meeting,N,N,Curriculum Meeting
+10,9/5/2019,11:00:00 PM,9/5/2019,15:00:00 PM,Social Studies Dept. Meeting,Y,Y,Department meeting
+11,9/5/2020,12:00:00 PM,9/5/2020,16:00:00 PM,Social Studies Dept. Meeting,N,N,Curriculum Meeting
+12,9/5/2021,13:00:00 PM,9/5/2021,17:00:00 PM,Social Studies Dept. Meeting,N,Y,Department meeting
+13,9/5/2022,14:00:00 PM,9/5/2022,18:00:00 PM,Social Studies Dept. Meeting,Y,N,Curriculum Meeting
+14,9/5/2023,15:00:00 PM,9/5/2023,19:00:00 PM,Social Studies Dept. Meeting,N,Y,Department meeting
+15,9/5/2024,16:00:00 PM,9/5/2024,20:00:00 PM,Social Studies Dept. Meeting,N,N,Curriculum Meeting
+16,9/5/2025,17:00:00 PM,9/5/2025,21:00:00 PM,Social Studies Dept. Meeting,Y,Y,Department meeting
+17,9/5/2026,18:00:00 PM,9/5/2026,22:00:00 PM,Social Studies Dept. Meeting,N,N,Curriculum Meeting
+18,9/5/2027,19:00:00 PM,9/5/2027,23:00:00 PM,Social Studies Dept. Meeting,N,Y,Department meeting
+19,9/5/2028,20:00:00 PM,9/5/2028,24:00:00 PM,Social Studies Dept. Meeting,Y,N,Curriculum Meeting
+20,9/5/2029,21:00:00 PM,9/5/2029,25:00:00 PM,Social Studies Dept. Meeting,N,Y,Department meeting
+21,9/5/2030,22:00:00 PM,9/5/2030,26:00:00 PM,Social Studies Dept. Meeting,N,N,Curriculum Meeting
+22,9/5/2031,23:00:00 PM,9/5/2031,27:00:00 PM,Social Studies Dept. Meeting,Y,Y,Department meeting
+23,9/5/2032,24:00:00 PM,9/5/2032,28:00:00 PM,Social Studies Dept. Meeting,N,N,Curriculum Meeting
+24,9/5/2033,25:00:00 PM,9/5/2033,29:00:00 PM,Social Studies Dept. Meeting,N,Y,Department meeting
